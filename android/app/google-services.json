@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17452023223",
+    "project_id": "qlhocphan-c5368",
+    "storage_bucket": "qlhocphan-c5368.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17452023223:android:ba59d6c4e596fdbd25bc32",
+        "android_client_info": {
+          "package_name": "com.example.qlhocphan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtvL2l8WF_rOG2ILEXMVm2EAL5yXn3bdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
